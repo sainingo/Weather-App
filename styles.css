@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container{
+ margin: 20px 0;
+ width: 80%;
+ text-align: center;
+}
+.inputs {
+    margin: 20px;
+    padding: 10px;
+}
+.inputValue {
+    margin: 10px;
+    width: 200px;
+    padding: 3px;
+    border-radius: 5px;
+}
+.btn {
+    background-color: rgb(48, 128, 231);
+    border-radius: 5px;
+    width: 10%;
+    padding: 3px;
+}
+.btn:hover {
+    background-color: whitesmoke;
+}
